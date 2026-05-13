@@ -1,4 +1,4 @@
-
+Enhance The Unarchiver for macOS with exclusive The Unarchiver for macOS Addon | file-archiving + clipboard-manager, the #1 addon. Includes file-archiving and clipboard-manager
 
 
 
